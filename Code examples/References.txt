@@ -1,0 +1,11 @@
+Links:
+
+Hashtable: http://www.cse.unt.edu/~donr/courses/2050/images/Figure1249.gif
+
+BST:https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Binary_search_tree.svg/2000px-Binary_search_tree.svg.png
+
+String allocation: http://i0.wp.com/c.codeindepth.com/wp-content/uploads/2015/11/memory-representation-of-a-string.png
+
+QSort: http://java2novice.com/images/quick-sort1.png
+
+Linked List: http://www.csegeek.com/csegeek/view/tutorials/algorithms/linked_list/linked_list.jpg
