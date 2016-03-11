@@ -2,9 +2,10 @@
  /* Desktop */
  
  @media screen and (min-width: 769px) {
+/*  Index.CSS main stylesheet   */
    main {
      text-decoration: none;
-     background: #1C618C;
+     background: #7Ca687;
      font-family: 'Noticia Text', serif;
      width: 90%;
      margin-left: 5%;
@@ -40,11 +41,13 @@
    }
    
    .parent img{
-     width: 100%;
+     width: 90%;
+     margin-top:7%;
    }
 
    .parent:hover {
-     background: #024059;
+     box-shadow: 2px #024059;
+     border-radius: 20px;
    }
    .BGInfo {
      float: left;
@@ -89,6 +92,8 @@
      text-align: right;
      font-size: 20px;
    }
+/*  Portfolio Code for desktop   */
+
  }
  /* End Desktop view */
 
@@ -143,6 +148,7 @@
      padding-right: 1%;
      padding-bottom: .5%;
      background: #1C618C;
+     box-shadow: 4px 4px 4px 4px #024059;
 /*      background: #024059; */
    }
    .ProObj{
@@ -173,6 +179,7 @@
      text-align: right;
      font-size: 20px;
    }
+
 }
 /* End Mobile View */
 
@@ -265,6 +272,6 @@
      text-align: right;
      font-size: 20px;
    }
- }
+
 }
 /* End Phablet View */
